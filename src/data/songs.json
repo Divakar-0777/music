@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Summer Walk",
+    "artist": "Olexy",
+    "url": "https://cdn.pixabay.com/download/audio/2022/01/21/audio_31743c58bc.mp3?filename=summer-walk-152722.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=300&h=300&fit=crop",
+    "category": "Motivational"
+  },
+  {
+    "id": 2,
+    "title": "Lofi Study",
+    "artist": "FASSounds",
+    "url": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3?filename=lofi-study-112191.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1493225457224-b1eb211d0b7d?w=300&h=300&fit=crop",
+    "category": "Sad"
+  },
+  {
+    "id": 3,
+    "title": "Inspiring Cinematic Ambient",
+    "artist": "Lexin_Music",
+    "url": "https://cdn.pixabay.com/download/audio/2022/08/02/audio_884fe92c21.mp3?filename=inspiring-cinematic-ambient-116199.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=300&h=300&fit=crop",
+    "category": "Motivational"
+  },
+  {
+    "id": 4,
+    "title": "Good Night",
+    "artist": "FASSounds",
+    "url": "https://cdn.pixabay.com/download/audio/2022/06/17/audio_dc39bdeef9.mp3?filename=good-night-160166.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1507504031003-b417219a0fde?w=300&h=300&fit=crop",
+    "category": "Sad"
+  },
+  {
+    "id": 5,
+    "title": "Separation",
+    "artist": "William_King",
+    "url": "https://cdn.pixabay.com/download/audio/2022/10/25/audio_244a0ebcc6.mp3?filename=separation-185196.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=300&h=300&fit=crop",
+    "category": "Sad"
+  },
+  {
+    "id": 6,
+    "title": "Acoustic Vibe",
+    "artist": "RomanSenykMusic",
+    "url": "https://cdn.pixabay.com/download/audio/2022/02/22/audio_d1718ab41b.mp3?filename=acoustic-vibe-114407.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?w=300&h=300&fit=crop",
+    "category": "Love"
+  },
+  {
+    "id": 7,
+    "title": "Lofi Chill (The Boy)",
+    "artist": "The_Boy",
+    "url": "https://cdn.pixabay.com/download/audio/2023/12/30/audio_b281f6eb25.mp3?filename=lofi-chill-183389.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300&h=300&fit=crop",
+    "category": "Love"
+  },
+  {
+    "id": 8,
+    "title": "Upbeat Pop",
+    "artist": "Oleksii_Kaplunskyi",
+    "url": "https://cdn.pixabay.com/download/audio/2022/10/14/audio_9939f792bc.mp3?filename=upbeat-pop-119159.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=300&h=300&fit=crop",
+    "category": "Friendship"
+  }
+]
