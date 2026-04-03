@@ -62,5 +62,13 @@
     "url": "https://cdn.pixabay.com/download/audio/2022/10/14/audio_9939f792bc.mp3?filename=upbeat-pop-119159.mp3",
     "coverUrl": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=300&h=300&fit=crop",
     "category": "Friendship"
+  },
+  {
+    "id": 9,
+    "title": "My Custom Drive Song",
+    "artist": "User Upload",
+    "url": "https://drive.google.com/uc?export=download&id=18zwQ4bMFBPb8kV1M_gNixBXa6b2wa6aD",
+    "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=300&h=300&fit=crop",
+    "category": "Custom Tracks"
   }
 ]
